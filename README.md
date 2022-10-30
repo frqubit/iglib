@@ -6,6 +6,12 @@ Isometric Graphics Library (IGLib) is an SFML-based library for creating isometr
 
 ## Features
 
+### Legend
+
+- :heavy_check_mark: - Fully implemented.
+- :hourglass: - Planned for a near-future release.
+- :x: - Not planned for development any time soon.
+
 ### Shapes
 
 | Feature | Status |
