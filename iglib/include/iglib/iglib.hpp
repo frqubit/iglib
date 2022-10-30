@@ -6,9 +6,10 @@
 #include <SFML/Graphics.hpp>
 #include <memory>
 
-#define GRID_SIZE 50
 
 namespace iglib {
+
+	void setGridSize(size_t size);
 
     class IsoVector {
         public:

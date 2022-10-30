@@ -11,6 +11,8 @@ using namespace sf;
 int main() {
 	srand(time(NULL));
 
+	setGridSize(50);
+
 	RenderWindow window(VideoMode(800, 600), "SFML works!");
 	window.setFramerateLimit(60);
 

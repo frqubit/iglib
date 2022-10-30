@@ -6,6 +6,12 @@
 using namespace iglib;
 using namespace sf;
 
+size_t GRID_SIZE = 10;
+
+void iglib::setGridSize(size_t size) {
+	GRID_SIZE = size;
+}
+
 //============================================================================
 //                            iglib::IsoShape
 //============================================================================
